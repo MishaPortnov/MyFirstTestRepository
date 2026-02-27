@@ -1,1 +1,2 @@
 This is my file tat I would like to add to my first repository !
+Today is a good day
